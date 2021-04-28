@@ -1,0 +1,67 @@
+Exercícios de Programação (Implementação em TypeScript)
+1. Crie um programa que solicite ao usuário a digitação de um número. Informe então se este número é 
+par ou ímpar.
+
+2. Elaborar uma questão de múltipla escolha, de uma disciplina que esteja cursando ou um tema de 
+interesse, com um enunciado e cinco alternativas, sendo uma correta ou incorreta. Escrever um 
+programa que mostra a questão na tela, pede a resposta correta e informa ao usuário se este acertou 
+ou errou.
+
+3. Um ano é bissexto se for divisível por 4 exceto os séculos, que são bissextos se forem múltiplos de 400. 
+Escreva um programa que lê um ano e determina se este é bissexto.
+
+4. Dê o conceito do aluno conforme sua nota média, considerando:
+Entrada: 3 notas (números reais)
+Saída: Média das notas e classificação, de acordo com a tabela abaixo:
+caso 8 <= média <= 10 → nota A
+caso 7 <= média < 8 → nota B
+caso 5 <= média < 7 → nota C
+caso 4 <= média < 5 → nota D
+caso 0 <= média < 4 → nota E
+
+5. Escreva um algoritmo que leia os três números (possíveis lados de um triângulo) e imprima sua 
+classificação quanto aos lados: 
+a) Três lados iguais (equilátero)
+b) Dois lados iguais (isósceles)
+c) Três lados diferentes (escaleno)
+
+6. Escreva um programa TypeScript que exiba os números pares de 2 a 12 utilizando laços de repetição.
+
+7. Escreva um programa que exiba qualquer tabuada completa:
+a. O programa deve perguntar ao usuário qual tabuada ele deseja visualizar.
+b. O usuário deverá responder digitando um número de 1 a 10.8. Escreva um programa que solicita 10 números e ao final exibe a soma de todos eles.
+
+9. Escreva um programa que solicita o nome e a altura de 5 atletas. Ao final da entrada de dados, informe 
+O NOME do atleta mais alto.
+
+10. Solicite que seja digitada uma palavra que contenha a letra F ou comece com a letra P (pesquisar 
+métodos de manipulação de string em TypeScript se necessário).
+
+11. Crie uma calculadora baseada em funções.
+
+12. Crie uma função capaz de ler e retornar o nome do usuário. Através de outra função, capaz de imprimir 
+um valor no console, exiba o nome do usuário.
+
+13. Crie uma função com dois parâmetros numéricos capaz de verificar qual número é o maior e retornálo.
+
+14. Escreva uma função que recebe um valor em dólares e é capaz de retornar o valor em reais. Esta 
+função deverá chamar outra função capaz de retornar o valor de um dólar em reais (câmbio). Permita 
+que o usuário chame a função de cálculo do valor de dólares em reais, informando um valor.
+
+15. Escreva uma função que é capaz de retornar se um número é ou não primo. Chame esta função 
+passando um número do usuário.
+
+16. Solicite que o usuário preencha nomes até que ele digite “sair”. Exiba todos os nomes digitados em 
+sequência.
+
+17. Crie um vetor de 50 posições, preencha com números aleatórios de 1 a 100 e exiba a média destes.
+Pesquise como gerar números aleatórios em TypeScript.
+
+18. Leia 5 valores do usuário. Exiba todos os valores e indique o maior valor.
+
+19. Colete 3 números do usuário, coloque-os em um vetor e exiba-o. Em seguida, modifique o array de 
+forma que a sequência de números fique do contrário (se digitou 1,2,3, exiba 3,2,1).
+
+20. Crie uma função que recebe um vetor e um número. A função deverá retornar todos os índices onde 
+esse número aparece no vetor. Crie um vetor com números aleatórios, defina um número e execute a 
+função, imprimindo todos os números e as posições onde o número selecionado aparece
