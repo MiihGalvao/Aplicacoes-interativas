@@ -1,4 +1,3 @@
 # Aplicacoes-interativas
-Aulas app interativas
+Aulas app interativas - Projetos básicos com typescript.
 
-Projetos básicos com typescript.
